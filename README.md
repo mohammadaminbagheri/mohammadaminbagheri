@@ -18,7 +18,7 @@ Currently focusing on **SaaS platforms ☁️, efficient backend systems ⚙️,
 ---
 
 
-<img src="https://raw.githubusercontent.com/mohammadaminbagheri/mohammadaminbagheri/output/snake.yml" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/mohammadaminbagheri/mohammadaminbagheri/output/snake.svg" alt="Snake animation" />
 
 
 ---
