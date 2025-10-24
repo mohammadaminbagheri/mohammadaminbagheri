@@ -15,18 +15,18 @@ I love creating **clean, maintainable, and efficient code**, and I'm always expl
 Currently focusing on **SaaS platforms ☁️, efficient backend systems ⚙️, and real-world web applications 🌟**.
 
 
-
+---
 
 
 <img src="https://raw.githubusercontent.com/mohammadaminbagheri/mohammadaminbagheri/output/snake.svg" alt="Snake animation" />
 
 
-<br>
+---
+
 
 ## 🏆 Trophies
 
 <img src="https://github-profile-trophy.vercel.app?username=mohammadaminbagheri&theme=algolia&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-
 
 
 ---
@@ -50,24 +50,23 @@ Currently focusing on **SaaS platforms ☁️, efficient backend systems ⚙️,
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 
 
-<br>
+---
+
 
 ### 📊 GitHub Stats
-<div align="center">
-  ![Amin's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammadaminbagheri&show_icons=true&theme=radical)
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadaminbagheri&radius=16&theme=github-dark&area=true&order=5" height="280" alt="activity-graph graph" />
 
 
 ---
 
 
 ### 🌐 Connect with Me
-<div>
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amin-bagheri)
-</div>
+  [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminprim84@gmail.com)
+  [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/BGI_Amin)
 
 
----
+----
 
 
 ### ⚡ Fun Fact
