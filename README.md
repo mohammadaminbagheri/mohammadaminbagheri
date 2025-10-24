@@ -50,13 +50,6 @@ Currently focusing on **SaaS platforms ☁️, efficient backend systems ⚙️,
 <br>
 
 
-## 📊 GitHub Stats
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadaminbagheri&radius=16&theme=github-dark&area=true&order=5" height="280" alt="activity-graph graph" />
-
-
-<br>
-
-
 ## 🌐 Connect with Me
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amin-bagheri)
   [![Email](https://img.shields.io/badge/Email-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aminprim84@gmail.com)
@@ -69,3 +62,15 @@ Currently focusing on **SaaS platforms ☁️, efficient backend systems ⚙️,
 ## ⚡ Fun Fact
 I love creating projects that combine **practical coding** with **strategic thinking**.  
 Always learning and exploring ways to make code smarter and cleaner.
+
+
+<br>
+
+
+## 📊 GitHub Stats
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadaminbagheri&radius=16&theme=github-dark&area=true&order=5" height="280" alt="activity-graph graph" />
+
+![](https://github-contributor-stats.vercel.app/api?username=mohammadaminbagheri&limit=5&theme=holi&combine_all_yearly_contributions=true)<br>
+[![](https://streak-stats.demolab.com?user=mohammadaminbagheri&background=030314&border=ffffff&ring=5090CB&fire=5090CB&currStreakNum=D6E7FF&sideNums=D6E7FF&currStreakLabel=5090CB&sideLabels=5090CB&dates=ffffff)](https://git.io/streak-stats)<br>
+![](https://github-readme-stats.vercel.app/api?username=mohammadaminbagheri&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadaminbagheri&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
