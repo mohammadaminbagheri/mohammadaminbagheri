@@ -62,7 +62,7 @@ Always learning and exploring ways to make code smarter and cleaner.
 ## 📊 GitHub Stats
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=M-amin04&radius=16&theme=github-dark&area=true&order=5" height="280" alt="activity-graph graph" />
 
-![](https://github-contributor-stats.vercel.app/api?username=mohammadaminbagheri&limit=5&theme=holi&combine_all_yearly_contributions=true)<br>
-[![](https://streak-stats.demolab.com?user=mohammadaminbagheri&background=030314&border=ffffff&ring=5090CB&fire=5090CB&currStreakNum=D6E7FF&sideNums=D6E7FF&currStreakLabel=5090CB&sideLabels=5090CB&dates=ffffff)](https://git.io/streak-stats)<br>
-![](https://github-readme-stats.vercel.app/api?username=mohammadaminbagheri&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammadaminbagheri&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-contributor-stats.vercel.app/api?username=M-amin04&limit=5&theme=holi&combine_all_yearly_contributions=true)<br>
+[![](https://streak-stats.demolab.com?user=M-amin04&background=030314&border=ffffff&ring=5090CB&fire=5090CB&currStreakNum=D6E7FF&sideNums=D6E7FF&currStreakLabel=5090CB&sideLabels=5090CB&dates=ffffff)](https://git.io/streak-stats)<br>
+![](https://github-readme-stats.vercel.app/api?username=M-amin04&theme=holi&hide_border=false&include_all_commits=false&count_private=false)<br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=M-amin04&theme=holi&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
